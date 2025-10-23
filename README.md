@@ -17,10 +17,12 @@ Link hướng dẫn và download tại đây: https://code.visualstudio.com/down
 ### 2. Implement libraries
 
 - Mở terminal trên VSCode, chạy câu lệnh sau để cài đặt các thư viện cần thiết:
-
+'''bash
 pip install -r requirements.txt
 
-- Sau đó chạy game: python main.py
+- Sau đó chạy game:
+'''bash
+python main.py
 
 ### 3. Usage
 
@@ -35,7 +37,7 @@ pip install -r requirements.txt
 
 - 🐍 Python 3.13
 - 🎮 Pygame
-- 💾 txt (lưu danh sách từ)
+- 💾 txt (lưu danh sách từ wordList.txt)
 
 ## Cấu trúc thư mục
 
