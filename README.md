@@ -17,7 +17,9 @@ Link hướng dẫn và download tại đây: https://code.visualstudio.com/down
 ### 2. Implement libraries
 
 - Mở terminal trên VSCode, chạy câu lệnh sau để cài đặt các thư viện cần thiết:
+
 pip install -r requirements.txt
+
 - Sau đó chạy game: python main.py
 
 ### 3. Usage
@@ -38,14 +40,13 @@ pip install -r requirements.txt
 ## Cấu trúc thư mục
 
 Wordle 
-|
-|--CodeSource
-|  |--wordle.py
-|  |--main.py
-|  |--wordList.txt
-|--requirements.txt
-|--README.md
-|--Report.pdf
+- CodeSource
+    + wordle.py
+    + main.py
+    + wordList.txt
+- requirements.txt
+- README.md
+- Report.pdf
 
 ## Tác giả
 HoangTrang
