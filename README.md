@@ -17,13 +17,13 @@ Link hướng dẫn và download tại đây: https://code.visualstudio.com/down
 ### 2. Implement libraries
 
 - Mở terminal trên VSCode, chạy câu lệnh sau để cài đặt các thư viện cần thiết:
-'''bash
+``` bash
 pip install -r requirements.txt
-
+```
 - Sau đó chạy game:
-'''bash
+``` bash
 python main.py
-
+```
 ### 3. Usage
 
 - Dùng bàn phím để nhập từ
